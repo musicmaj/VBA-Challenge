@@ -1,2 +1,2 @@
 # VBA-Challenge
-Homework Module 2-VBA
+An assignment where I used VBA scripting to analyze generated stock market data.
